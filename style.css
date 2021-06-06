@@ -21,7 +21,7 @@ html,body{
 }
 .header-text{
    display: inline-block;
-   padding-left: 100px;
+   padding-left: 4px;
    font-size: 5.6vw;
    font-weight: 500;
    color: #6e7073;
